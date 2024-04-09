@@ -10,3 +10,4 @@ bool  MySQLManager::DeleteTable  Возвращает 1 при успешном 
 bool  MySQLManager::CloseConncection Возвращает 1 при успешном удалении всех соединений
 
 
+![image](https://github.com/asuemg1/OptiMySQL/assets/84317505/3f094579-34b5-47c7-8ddd-78e35d95b221)
